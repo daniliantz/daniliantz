@@ -1,5 +1,15 @@
 ### Hi there 👋
+<img src="https://media.giphy.com/media/jz2VNqCrlFsPe/giphy.gif" width="100%">
 
+🔭 I’m currently working on UI
+
+🌱 I’m currently learning backend
+
+💬 Ask me about anything
+
+📫 How to reach me: https://t.me/daniliantz
+
+⚡ Fun fact: `[object Object]`
 <!--
 **daniliantz/daniliantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
