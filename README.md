@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on UI
 
-🌱 I’m currently learning backend
+🌱 I’m currently learning how to exit the Vim
 
 💬 Ask me about anything
 
