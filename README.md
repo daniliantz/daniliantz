@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/jz2VNqCrlFsPe/giphy.gif" width="100%">
 
 🔭 I’m currently working on UI
 
@@ -10,6 +9,9 @@
 📫 How to reach me: https://t.me/daniliantz
 
 ⚡ Fun fact: `[object Object]`
+
+<img src="https://media3.giphy.com/media/Ss6ZdRDOB4E5XfqCPI/giphy.gif" width="30%">
+
 <!--
 **daniliantz/daniliantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
