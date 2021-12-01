@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: `[object Object]`
 
-<img src="https://media3.giphy.com/media/Ss6ZdRDOB4E5XfqCPI/giphy.gif" width="30%">
+<img src="https://github.com/daniliantz/daniliantz/blob/main/brilliant.gif" width="30%">
 
 <!--
 **daniliantz/daniliantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
